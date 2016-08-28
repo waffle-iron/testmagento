@@ -1,0 +1,8 @@
+#IDE files
+/nbproject/
+
+#magento var directories
+/var/
+
+#magento
+app/etc/local.xml
