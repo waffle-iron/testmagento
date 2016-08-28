@@ -4,5 +4,5 @@
 #magento var directories
 /var/
 
-#magento
+#magento files
 app/etc/local.xml
