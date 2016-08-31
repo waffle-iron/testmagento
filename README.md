@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/chandrasekharsourcecode/testmagento.png?label=ready&title=Ready)](https://waffle.io/chandrasekharsourcecode/testmagento)
 # testmagento
 Test magento
 Software required.
